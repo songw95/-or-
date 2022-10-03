@@ -1,0 +1,22 @@
+# 문제3 : 변수의 타입
+
+다음 출력 값으로 올바른 것은?
+
+
+var arr = [100, 200, 300];
+console.log(typeof(arr));
+
+
+1)  undefined
+2)  string
+3)  number
+4)  object
+
+
+
+
+var arr1 = ['100','가나다',12];
+console.log(typeof(arr1));       
+
+출력 --     객체 임.
+js는 배열도 객체 다.
